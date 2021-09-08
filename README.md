@@ -24,7 +24,7 @@ Este taller presenta diferentes retos que loa ayudaran a explorar los conceptos 
 ## Utilización
 Esta aplicación se encuentra desplegada en Heroku, por esta razón para poder probarlo se deben seguir por el siguiente enlace
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://serviciosarep.herokuapp.com/index.html)
 
 ## Diseño
 
