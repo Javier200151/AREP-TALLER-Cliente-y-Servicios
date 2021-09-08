@@ -26,5 +26,6 @@ Esta aplicación se encuentra desplegada en Heroku, por esta razón para poder p
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://serviciosarep.herokuapp.com/index.html)
 
-## Diseño
+## Reto 1 - Diseño
+Un servidor web que soporte múlltiples solicitudes seguidas (no concurrentes). El servidor debe retorna todos los archivos solicitados, incluyendo páginas html e imágenes. Incluye un sitio web con javascript para probar su servidor.
 
