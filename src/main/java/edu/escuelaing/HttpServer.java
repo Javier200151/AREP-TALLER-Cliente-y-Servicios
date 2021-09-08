@@ -163,6 +163,12 @@ public class HttpServer {
                         + "</html>";
         return outputLine;
     }
+    static int getPort() {
+        if (System.getenv("PORT") != null) {
+            return Integer.parseInt(System.getenv("PORT"));
+        }
+        return 4567; //returns default port if heroku-port isn't set (i.e. on localhost)
+    }
     public static void main(String[] args) throws IOException {
         HttpServer.getInstance().start();
     }
