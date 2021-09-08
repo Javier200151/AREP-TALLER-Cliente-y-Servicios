@@ -24,7 +24,8 @@ Este taller presenta diferentes retos que loa ayudaran a explorar los conceptos 
 ## Utilización
 Esta aplicación se encuentra desplegada en Heroku, por esta razón para poder probarlo se deben seguir por el siguiente enlace
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://serviciosarep.herokuapp.com/index.html)
 
-## Diseño
+## Reto 1 - Diseño
+Un servidor web que soporte múlltiples solicitudes seguidas (no concurrentes). El servidor debe retorna todos los archivos solicitados, incluyendo páginas html e imágenes. Incluye un sitio web con javascript para probar su servidor.
 
